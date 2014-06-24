@@ -1,0 +1,13 @@
+{
+	"name" : "foomatt/javelet.me",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Matthew Javelet",
+			"email" : "matthew.javelet@gmail.com",
+			"homepage" : "http://javelet.me"
+		}
+	],
+	"require" : {
+		"laravel/framework" : "dev-master"
+	}
+}
